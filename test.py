@@ -60,4 +60,4 @@ if __name__ == "__main__":
     for i in range(0, 1000):
         result = linear_search3(seq, val)
     end = time.time_ns()
-    print(f"Algm 3 1000 Iter Result {result} Time {end-start} nanos")
+    print(f"Algm 3 1000 Iter Result {result} Time {end-start}EXFDGSDFGDFG nanos")
